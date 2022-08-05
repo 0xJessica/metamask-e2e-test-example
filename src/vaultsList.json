@@ -1,0 +1,4228 @@
+[
+  {
+    "id": "0x00608B2230FbCD2b85cF8506006979A3A888EbdF",
+    "address": "0x00608B2230FbCD2b85cF8506006979A3A888EbdF",
+    "name": "Gelato Uniswap USDC/WETH LP",
+    "blockCreated": 14517396,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": 192480,
+    "upperTick": 196800,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0xd5dbad156e42707f3ad05e81fe0d9eeedd96af980d149902f0b22d3f3e69e1af",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "tvl": 0,
+    "apr": 25.86420553124069,
+    "aprTimestamp": 1653571732,
+    "feesEarned0": {
+      "_hex": "0x4887131e22",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x2650a8960a84b1387f",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x07BaA98c5CdeC970A3a4654f0fbb066404fF5fE0",
+    "address": "0x07BaA98c5CdeC970A3a4654f0fbb066404fF5fE0",
+    "name": "Gelato Uniswap FEI/USDC LP",
+    "blockCreated": 12871235,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x571c96ddabb50d",
+      "_isBigNumber": true
+    },
+    "lowerTick": -276360,
+    "upperTick": -276200,
+    "manager": "0xed5cf41b0fd6a3c564c17ee34d9d26eafc30619b",
+    "managerFee": 0,
+    "positionId": "0x92ac7ff1d4e963e570cfaec10abec19296bb52a7c9a432a392a63cae9bc3bad5",
+    "token0": {
+      "name": "Fei USD",
+      "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+      "symbol": "FEI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 0.9987551764775005,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x0bb99a51",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x8c54aa2a32a779e6f6fbea568ad85a19e0109c26",
+    "tvl": 0,
+    "apr": 7.2770408530773585,
+    "aprTimestamp": 1656741199,
+    "feesEarned0": {
+      "_hex": "0x066ecaf1d3de2db3e48c",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x0235a37a53",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x092a51b356930d907570Efec1fc94f3c591B7239",
+    "address": "0x092a51b356930d907570Efec1fc94f3c591B7239",
+    "name": "Gelato Uniswap PAR/USDC LP",
+    "blockCreated": 14454770,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x01932851e43d196bc2",
+      "_isBigNumber": true
+    },
+    "lowerTick": -276840,
+    "upperTick": -275840,
+    "manager": "0xac3203d77823496e421aa7e88cdc2f6c387d6182",
+    "managerFee": 0,
+    "positionId": "0x51cc6b06add12868d1e00b95703ac70c805cb50fc3fca0452ed98b4292faccb8",
+    "token0": {
+      "name": "PAR Stablecoin",
+      "address": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
+      "symbol": "PAR",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 1.0227277637873269,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x01189da1ab29336204",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xd7dcb0eb6aab643b85ba74cf9997c840fe32e695",
+    "tvl": 0,
+    "apr": 1.0073089185070456,
+    "aprTimestamp": 1658221534,
+    "feesEarned0": {
+      "_hex": "0x06ca2d72635c95d429b4d2",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x03c68e3adab5",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x0A2022F517ad22330069049972F26763a7f0f7A3",
+    "address": "0x0A2022F517ad22330069049972F26763a7f0f7A3",
+    "name": "Gelato Uniswap JPG/WETH LP",
+    "blockCreated": 14609278,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x0916f48693694d6dfd",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887200,
+    "upperTick": 887200,
+    "manager": "0x88215a2794ddc031439c72922ec8983bde831c78",
+    "managerFee": 0,
+    "positionId": "0xf040ce3066682014efceea63cfb7cbc2350a4958dfa39d3716dcd4d5d3576fb7",
+    "token0": {
+      "name": "JPG NFT Index",
+      "address": "0x02e7ac540409d32c90bfb51114003a9e1ff0249c",
+      "symbol": "JPG",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x0901df7bec436f77db",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x0eb86eec804f21ee77038b71783ab0a24afed649",
+    "tvl": 0,
+    "apr": 3.4715787110065914,
+    "aprTimestamp": 1658462513,
+    "feesEarned0": {
+      "_hex": "0x41e32d5f76c8772806",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x017009aaae358cc60d",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x0D2A2Df39436b5c5f986552869124bA29b7Df1AC",
+    "address": "0x0D2A2Df39436b5c5f986552869124bA29b7Df1AC",
+    "name": "Gelato Uniswap icETH/WETH LP",
+    "blockCreated": 14450669,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x84a95ae6b1ba586679",
+      "_isBigNumber": true
+    },
+    "lowerTick": -1800,
+    "upperTick": 200,
+    "manager": "0x5108ef86cf493905bcd35a3736e4b46decd7de58",
+    "managerFee": 0,
+    "positionId": "0x58a236c5c37f035f122fad0b4ec5db4856efa69459129d9e23a4c6ca9e9e48ff",
+    "token0": {
+      "name": "Interest Compounding ETH Index",
+      "address": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
+      "symbol": "icETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 1522.7198450399546,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x038da32027d9222895fb",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xe5d028350093a743a9769e6fd7f5546eeddaa320",
+    "tvl": 0,
+    "apr": 4.962430537162994,
+    "aprTimestamp": 1657599961,
+    "feesEarned0": {
+      "_hex": "0x79b714e22e09099593",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x2ba6b5a344934cf1b9",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x18D53f4953AD14236602DA05eFAfc0Df4f5d064D",
+    "address": "0x18D53f4953AD14236602DA05eFAfc0Df4f5d064D",
+    "name": "Gelato Uniswap ETHMAXY/WETH LP",
+    "blockCreated": 14314624,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x5e8884f69ed2b9019b",
+      "_isBigNumber": true
+    },
+    "lowerTick": -100,
+    "upperTick": 960,
+    "manager": "0xd8436904fdf627b198a205311c980abf6312abdb",
+    "managerFee": 0,
+    "positionId": "0x78c7885f17d257828d4f1c680b88b8a68738ccdcfab7f2977b546d69d6b60a1d",
+    "token0": {
+      "name": "ETH Max Yield Index",
+      "address": "0x0fe20e0fa9c78278702b05c333cc000034bb69e2",
+      "symbol": "ETHMAXY",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x5e2b4f71d07feeb981",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xfececebf44d38858a0c478c2c4afa2601f5352fb",
+    "tvl": 0,
+    "apr": 1.1465808001692364,
+    "aprTimestamp": 1658335334,
+    "feesEarned0": {
+      "_hex": "0x84d45068c83ca4dc3f",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x2a1af8c53b569c481a",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x24416cba1772c283De3B41eB99E850E8321322Bc",
+    "address": "0x24416cba1772c283De3B41eB99E850E8321322Bc",
+    "name": "Gelato Uniswap USDC/WETH LP",
+    "blockCreated": 14247764,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x13b81e0c6679a1",
+      "_isBigNumber": true
+    },
+    "lowerTick": 194040,
+    "upperTick": 198480,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0xc6efea72ccab389ddcda551b50080c7fa5a4846c0aa84aadc02c4231a7615f31",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x12945a0086cdf1",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "tvl": 0,
+    "apr": 9.219329968088385,
+    "aprTimestamp": 1657594666,
+    "feesEarned0": {
+      "_hex": "0x4502fe2bbd",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x130aee7ca9658f585d",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x26C2251801D2cfb5461751c984Dc3eAA358bdf0f",
+    "address": "0x26C2251801D2cfb5461751c984Dc3eAA358bdf0f",
+    "name": "Gelato Uniswap agEUR/WETH LP",
+    "blockCreated": 13842163,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x02e8dbe7d73ad2532c",
+      "_isBigNumber": true
+    },
+    "lowerTick": -96120,
+    "upperTick": -69000,
+    "manager": "0xe02f8e39b8cfa7d3b62307e46077669010883459",
+    "managerFee": 0,
+    "positionId": "0xcffb5ebd80573c83a021b69580460ad866a67fdbf038ead49685129a4d54a87e",
+    "token0": {
+      "name": "agEUR",
+      "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+      "symbol": "agEUR",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 1.016608670588913,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x02d042f112038cd8c1",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x9496d107a4b90c7d18c703e8685167f90ac273b0",
+    "tvl": 0,
+    "apr": 7.58293139190615,
+    "aprTimestamp": 1650386047,
+    "feesEarned0": {
+      "_hex": "0xf01140e6ee2fa95891a60a",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x26a41525e8f352650379",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add",
+    "address": "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add",
+    "name": "Gelato Uniswap agEUR/USDC LP",
+    "blockCreated": 13576561,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x0557a0cd4c82133e",
+      "_isBigNumber": true
+    },
+    "lowerTick": -276320,
+    "upperTick": -273470,
+    "manager": "0xe02f8e39b8cfa7d3b62307e46077669010883459",
+    "managerFee": 0,
+    "positionId": "0x407d98bcdc9d842bad5c2efb8e7fc0e98ae612ad33294cc656804167921dea26",
+    "token0": {
+      "name": "agEUR",
+      "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+      "symbol": "agEUR",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 1.016608670588913,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x054b6d7b4e063e5f",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x7ed3f364668cd2b9449a8660974a26a092c64849",
+    "tvl": 0,
+    "apr": 1.3720408830738715,
+    "aprTimestamp": 1658401291,
+    "feesEarned0": {
+      "_hex": "0x021f6ef2e92b5010990cae71",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x01aa95d849ea4f",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x39703B0B92463c3fb3A0E9ea90926aA4f6c3283e",
+    "address": "0x39703B0B92463c3fb3A0E9ea90926aA4f6c3283e",
+    "name": "Arrakis Vault V1 FAITH/USDC",
+    "blockCreated": 14895085,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x01a289cf122c737a44",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887200,
+    "upperTick": 887200,
+    "manager": "0xb7647f0c6439ceaf6cf2eead58410bb50dbe909f",
+    "managerFee": 0,
+    "positionId": "0x3b3f4a464942bd2f42265e1b53b2143b497c52b631d759f99051f3f12b68597c",
+    "token0": {
+      "name": "Prelude of the Night",
+      "address": "0x30b2de4a95f397545c6509402f235b1be0fa9a14",
+      "symbol": "FAITH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x018f0cb620cd200e9e",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x1957f4a1bf3fe0876f34ed6a69c26266691f35ed",
+    "tvl": 0,
+    "apr": 1192.048570700633,
+    "aprTimestamp": 1655854800,
+    "feesEarned0": {
+      "_hex": "0x157e6ab0bc7982103f061c56bfc1",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x05c981f8f2",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x39ae52f197e7Fc9FC481cA03cfaf661A26845Ec3",
+    "address": "0x39ae52f197e7Fc9FC481cA03cfaf661A26845Ec3",
+    "name": "Gelato Uniswap KP3R/WETH LP",
+    "blockCreated": 14144707,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x34e12498ee3f75bdf6",
+      "_isBigNumber": true
+    },
+    "lowerTick": -22400,
+    "upperTick": -9000,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0x9d3d8cda632c4b657b9380c400741725ecbd19ae9e6919831535ec4eaa76603d",
+    "token0": {
+      "name": "Keep3rV1",
+      "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+      "symbol": "KP3R",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 133.42308111850934,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x2a41305d28140ff8f2",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x11b7a6bc0259ed6cf9db8f499988f9ecc7167bf5",
+    "tvl": 0,
+    "apr": 51.133480945653496,
+    "aprTimestamp": 1657409767,
+    "feesEarned0": {
+      "_hex": "0x0655be6823c0efa3e3da",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x576bd354b7a5b2f326",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x3D1556e84783672f2a3bd187a592520291442539",
+    "address": "0x3D1556e84783672f2a3bd187a592520291442539",
+    "name": "Gelato Uniswap DAI/FEI LP",
+    "blockCreated": 13198149,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x04d0433575321e1701d14af0",
+      "_isBigNumber": true
+    },
+    "lowerTick": -30,
+    "upperTick": 30,
+    "manager": "0xed5cf41b0fd6a3c564c17ee34d9d26eafc30619b",
+    "managerFee": 0,
+    "positionId": "0xecd1be0b7d25df48f27d1f5b4b604bd31139a102ef0dc32e7fc0a0bb6c36caff",
+    "token0": {
+      "name": "Dai Stablecoin",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Fei USD",
+      "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+      "symbol": "FEI",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 0.9987551764775005,
+    "totalSupply": {
+      "_hex": "0x0161c8e50f74e5565febddf7",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xbb2e5c2ff298fd96e166f90c8abacaf714df14f8",
+    "tvl": 0,
+    "apr": 5.390016779724858,
+    "aprTimestamp": 1657477820,
+    "feesEarned0": {
+      "_hex": "0x0198c29c3ebd847f217e0e90",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x02cb51e7e5dc0fe3d62cd124",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x472D0B0DDFE0BC02C27928b8BcbD67E65D07d48a",
+    "address": "0x472D0B0DDFE0BC02C27928b8BcbD67E65D07d48a",
+    "name": "Gelato Uniswap BANK/WETH LP",
+    "blockCreated": 14354977,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x62a75a7ca076d95999",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887200,
+    "upperTick": 887200,
+    "manager": "0x3839acf1ee7699d1f46b1be840d8ad8317fdf757",
+    "managerFee": 0,
+    "positionId": "0x59692b22fe3c88f78d9c19bfcf6640f99dbe065826c2b0d803057a17b557da3c",
+    "token0": {
+      "name": "Bankless Token",
+      "address": "0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198",
+      "symbol": "BANK",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 0.018095968983183736,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x5f4315b168f8889c06",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x1a80afe14143637c0b7609e6e276464e4f748014",
+    "tvl": 0,
+    "apr": 6.173619214664654,
+    "aprTimestamp": 1658364958,
+    "feesEarned0": {
+      "_hex": "0x6f9f6de841e809849fda",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x5264f0003646e67d",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x48AC93d10e963a9F99682F53B62C257451E02940",
+    "address": "0x48AC93d10e963a9F99682F53B62C257451E02940",
+    "name": "Gelato Uniswap UDT/WETH LP",
+    "blockCreated": 13543670,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": -31440,
+    "upperTick": -27000,
+    "manager": "0x0d8410643ae7a4d833c7219e5c6fadfa5ce912cd",
+    "managerFee": 0,
+    "positionId": "0x87971cf2a4b59246259415ee4e78afd166e095155387f422beefdca9a5685f41",
+    "token0": {
+      "name": "Unlock Discount Token",
+      "address": "0x90de74265a416e1393a450752175aed98fe11517",
+      "symbol": "UDT",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x22a0738bde54050ffc04408063fd5fbdc1205bdf",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x4f38892c16bfbB4f4f7424EEfAa9767F4E922073",
+    "address": "0x4f38892c16bfbB4f4f7424EEfAa9767F4E922073",
+    "name": "Gelato Uniswap USDC/FLOAT LP",
+    "blockCreated": 12866631,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x15f0acf2aa2f5cdc",
+      "_isBigNumber": true
+    },
+    "lowerTick": 270780,
+    "upperTick": 274800,
+    "manager": "0x2b84260068a16b8d32fb8f5940fce559511851f5",
+    "managerFee": 0,
+    "positionId": "0x5bee77c163e305f542f113de84c801bf866e1c6cf340e173a175f3764798e78c",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Float Protocol: FLOAT",
+      "address": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
+      "symbol": "FLOAT",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 1.1924248241532847,
+    "totalSupply": {
+      "_hex": "0x94bb710b4d0cf7fe",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x7ee092fd479185dd741e3e6994f255bb3624f765",
+    "tvl": 0,
+    "apr": 1.6271127376736683,
+    "aprTimestamp": 1656893027,
+    "feesEarned0": {
+      "_hex": "0x057326cdb3f7",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x023c35078bab3a29294c97",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x4f93825A4D7f58899693C64f9b2cbBAC3B5b04ab",
+    "address": "0x4f93825A4D7f58899693C64f9b2cbBAC3B5b04ab",
+    "name": "Gelato Uniswap INDEX/WETH LP",
+    "blockCreated": 14450825,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0xb361f431d2e37bc03b",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887200,
+    "upperTick": 887200,
+    "manager": "0x5108ef86cf493905bcd35a3736e4b46decd7de58",
+    "managerFee": 0,
+    "positionId": "0x0519004fa6bec12392ca43420ff3f5d9841741ec9674fe11ef2ca72c0f3fd358",
+    "token0": {
+      "name": "Index",
+      "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+      "symbol": "INDEX",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 3.3586233443730324,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0xa6e2196e4a63447dfa",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x8c13148228765ba9e84eaf940b0416a5e349a5e7",
+    "tvl": 0,
+    "apr": 20.3834992880213,
+    "aprTimestamp": 1656458111,
+    "feesEarned0": {
+      "_hex": "0xfc7703491d12964466d0",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0xc95b244bcc26d7bdee",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x4fd9AD3758cC0a3719b066E6FF796a9Ccf702Ac6",
+    "address": "0x4fd9AD3758cC0a3719b066E6FF796a9Ccf702Ac6",
+    "name": "Gelato Uniswap WBTC/WETH LP",
+    "blockCreated": 13948464,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x59a3abad5e41",
+      "_isBigNumber": true
+    },
+    "lowerTick": 253290,
+    "upperTick": 257610,
+    "manager": "0xed5cf41b0fd6a3c564c17ee34d9d26eafc30619b",
+    "managerFee": 0,
+    "positionId": "0x43fce9ffeeac74fa4bde8326a3068671d2708423409c7ad6d1ad16091f538101",
+    "token0": {
+      "name": "Wrapped BTC",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 23157.15093388451,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x56c64bfc4896",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x4585fe77225b41b697c938b018e2ac67ac5a20c0",
+    "tvl": 0,
+    "apr": 0.9681619673581184,
+    "aprTimestamp": 1650743623,
+    "feesEarned0": {
+      "_hex": "0x016c5555",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x5f037d30cdc582f1",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x50379f632ca68D36E50cfBC8F78fe16bd1499d1e",
+    "address": "0x50379f632ca68D36E50cfBC8F78fe16bd1499d1e",
+    "name": "Gelato Uniswap DAI/USDC LP",
+    "blockCreated": 13641093,
+    "feeTier": 100,
+    "liquidity": {
+      "_hex": "0x02d7127ac276ae6ecc2d3b",
+      "_isBigNumber": true
+    },
+    "lowerTick": -276326,
+    "upperTick": -276322,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0xfde440200d6e116e87fbe0fc1ec51d36ec2add59fa2f8fef44436d04b5d92e99",
+    "token0": {
+      "name": "Dai Stablecoin",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x02cf0149484afaa4b68f43",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x5777d92f208679db4b9778590fa3cab3ac9e2168",
+    "tvl": 0,
+    "apr": 1.1944304708725562,
+    "aprTimestamp": 1658428545,
+    "feesEarned0": {
+      "_hex": "0xdf7f8a39269f7302037ef68d",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x012e761620a23d8b",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x61a0C8d4945A61bF26c13e07c30AF1f1ca67b473",
+    "address": "0x61a0C8d4945A61bF26c13e07c30AF1f1ca67b473",
+    "name": "Gelato Uniswap OHM/FRAX LP",
+    "blockCreated": 13984799,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x015843733ef509c3",
+      "_isBigNumber": true
+    },
+    "lowerTick": 239460,
+    "upperTick": 280380,
+    "manager": "0x245cc372c84b3645bf0ffe6538620b04a217988b",
+    "managerFee": 9750,
+    "positionId": "0x7f7d322db009ebc9c25722747f38eb539cf4e584706142ee63ce09479fa03df5",
+    "token0": {
+      "name": "Olympus",
+      "address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+      "symbol": "OHM",
+      "decimals": 9
+    },
+    "token1": {
+      "name": "Frax",
+      "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+      "symbol": "FRAX",
+      "decimals": 18
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 0.9980128306743171,
+    "totalSupply": {
+      "_hex": "0x01584373439d6e21",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x69061b8a0214a8d10145d8471730151434ca54ff",
+    "tvl": 0,
+    "apr": 3.750352451096514,
+    "aprTimestamp": 1651500560,
+    "feesEarned0": {
+      "_hex": "0xd329d7719b55",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x074ec3b7b5b79e9fc44e",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x74E8Df0a1A06F3B90D25af2536e605d7DFEFbcc7",
+    "address": "0x74E8Df0a1A06F3B90D25af2536e605d7DFEFbcc7",
+    "name": "Gelato Uniswap USDC/WETH LP",
+    "blockCreated": 14447056,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": 195310,
+    "upperTick": 197220,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0x30ae570dc4d751f46423510bcdc20814841129407a64efb30f3796107a9568d3",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x77CDd9e097f34C1fa861DAEb6823dE741fAb2321",
+    "address": "0x77CDd9e097f34C1fa861DAEb6823dE741fAb2321",
+    "name": "Gelato Uniswap ETH2x-FLI/WETH LP",
+    "blockCreated": 13609888,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x56b98bf46f0a38fada",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0xaffb88d48b0be5cd938015ba104d43e0a9df86b2",
+    "managerFee": 200,
+    "positionId": "0x4250b63c98f3536f8451dabfffe74e61487a066d33468f1b1cc2bf6b5219a032",
+    "token0": {
+      "name": "ETH 2x Flexible Leverage Index",
+      "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+      "symbol": "ETH2x-FLI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 13.239220535677294,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x0341dffbe61a580c0460",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x151ccb92bc1ed5c6d0f9adb5cec4763ceb66ac7f",
+    "tvl": 0,
+    "apr": 45.040835746354226,
+    "aprTimestamp": 1658467713,
+    "feesEarned0": {
+      "_hex": "0x012d576a6f5768f0b11e1d",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x03f3338fe5f905435351",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x7c687f775A3b73BBAb0E15832F24caaB5D53bDDe",
+    "address": "0x7c687f775A3b73BBAb0E15832F24caaB5D53bDDe",
+    "name": "Gelato Uniswap WETH/ENS LP",
+    "blockCreated": 13582709,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x274d68c014b5666dec",
+      "_isBigNumber": true
+    },
+    "lowerTick": 32000,
+    "upperTick": 60000,
+    "manager": "0x88215a2794ddc031439c72922ec8983bde831c78",
+    "managerFee": 0,
+    "positionId": "0xbcac4ba2b61cea3374434cac46e9397785cdcac027e73f115c3ade69eaba970b",
+    "token0": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Ethereum Name Service",
+      "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+      "symbol": "ENS",
+      "decimals": 18
+    },
+    "tokenPrice0": 1603.4853859077248,
+    "tokenPrice1": 13.138006859952084,
+    "totalSupply": {
+      "_hex": "0x1bbaf494d8d2e17f59",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xb9c4a5522a2f8ba9e2ff7063df8c02ed443337a3",
+    "tvl": 0,
+    "apr": 43.89691593134653,
+    "aprTimestamp": 1658192375,
+    "feesEarned0": {
+      "_hex": "0x0e3b11a6c78eb82b3c",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x0a785008e24daee5aa98",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x857E0B2eD0E82D5cDEB015E77ebB873C47F99575",
+    "address": "0x857E0B2eD0E82D5cDEB015E77ebB873C47F99575",
+    "name": "Gelato Uniswap agEUR/WETH LP",
+    "blockCreated": 14616105,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x11d05a4b01eb5ddb0c04",
+      "_isBigNumber": true
+    },
+    "lowerTick": -96120,
+    "upperTick": -69000,
+    "manager": "0x0c2553e4b9dfa9f83b1a6d3eab96c4baab42d430",
+    "managerFee": 0,
+    "positionId": "0x932f8d6066699d811dd1121631f83c293d0106881d8aed0aa6396cbfac6a1d11",
+    "token0": {
+      "name": "agEUR",
+      "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+      "symbol": "agEUR",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 1.016608670588913,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x1195f100a1d9577b1e46",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x8db1b906d47dfc1d84a87fc49bd0522e285b98b9",
+    "tvl": 0,
+    "apr": 5.129175892696503,
+    "aprTimestamp": 1658250580,
+    "feesEarned0": {
+      "_hex": "0x342652c18bb639bd0efeba",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x29b54b6b4439afebab55",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x8aEf042508eDe1801B8729580132a2c47E1AbF40",
+    "address": "0x8aEf042508eDe1801B8729580132a2c47E1AbF40",
+    "name": "Gelato Uniswap WBTC/WETH LP",
+    "blockCreated": 14581900,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": 256020,
+    "upperTick": 256200,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0xa9ed05bf28e8b75b3278d7036f6ed5c6886256ce92a9d1a20282988c1be4b04b",
+    "token0": {
+      "name": "Wrapped BTC",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 23157.15093388451,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+    "tvl": 0,
+    "apr": 10.332221077832031,
+    "aprTimestamp": 1654572064,
+    "feesEarned0": {
+      "_hex": "0x071154",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0xc074cb786e3712b6",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xa6c49FD13E50a30C65E6C8480aADA132011D0613",
+    "address": "0xa6c49FD13E50a30C65E6C8480aADA132011D0613",
+    "name": "Gelato Uniswap USDC/WETH LP",
+    "blockCreated": 13011078,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x07c63e1903b27e",
+      "_isBigNumber": true
+    },
+    "lowerTick": 192200,
+    "upperTick": 200310,
+    "manager": "0xed5cf41b0fd6a3c564c17ee34d9d26eafc30619b",
+    "managerFee": 0,
+    "positionId": "0xabcafc785d39d464f00cf8f00a41074b802535c75c9549baef205fe1e81e8b5c",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x05f352db5dea2b",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "tvl": 0,
+    "apr": 13.498025377875921,
+    "aprTimestamp": 1658473376,
+    "feesEarned0": {
+      "_hex": "0x1e88354ad5d0",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x035dee698211ef0064b9",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xa879dc95609824127C91EfB6eAc2270b4546D29f",
+    "address": "0xa879dc95609824127C91EfB6eAc2270b4546D29f",
+    "name": "Arrakis Vault V1 MILAREPA/USDC",
+    "blockCreated": 14895490,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887200,
+    "upperTick": 887200,
+    "manager": "0xb7647f0c6439ceaf6cf2eead58410bb50dbe909f",
+    "managerFee": 0,
+    "positionId": "0x42078d25680778bca0b5491f846a85d824522689a3f3b1d2a54e832e84cbe230",
+    "token0": {
+      "name": "A Yogis Joy",
+      "address": "0x5c56c86ae42ddee99c3b46cc1d78ba4761080d86",
+      "symbol": "MILAREPA",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x6292c28ccaeb851f8f941d8030a22da2cc87527a",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xA9514190cBBaD624c313Ea387a18Fd1dea576cbd",
+    "address": "0xA9514190cBBaD624c313Ea387a18Fd1dea576cbd",
+    "name": "Gelato Uniswap uAD/USDC LP",
+    "blockCreated": 14032049,
+    "feeTier": 100,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": -276326,
+    "upperTick": -276322,
+    "manager": "0xefc0e701a824943b469a694ac564aa1eff7ab7dd",
+    "managerFee": 0,
+    "positionId": "0x6099334664843d2caa968858c4ebc824bb3706f7dd392a94e02f1d6b4269a909",
+    "token0": {
+      "name": "Ubiquity Algorithmic Dollar",
+      "address": "0x0f644658510c95cb46955e55d7ba9dda9e9fbec6",
+      "symbol": "uAD",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x681b4c3af785dacaccc496b9ff04f9c31bce4090",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xAbDDAfB225e10B90D798bB8A886238Fb835e2053",
+    "address": "0xAbDDAfB225e10B90D798bB8A886238Fb835e2053",
+    "name": "Gelato Uniswap DAI/USDC LP",
+    "blockCreated": 12735663,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0xa251747b68fffc0ba67b",
+      "_isBigNumber": true
+    },
+    "lowerTick": -276330,
+    "upperTick": -276310,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0x05edc47b5469cd2ae549b8ff43e491cb6a1c0994ded8018923a1fad4fea0393f",
+    "token0": {
+      "name": "Dai Stablecoin",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x9f027134028ce6e89cb0",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x6c6bc977e13df9b0de53b251522280bb72383700",
+    "tvl": 0,
+    "apr": 2.038719024669996,
+    "aprTimestamp": 1658444343,
+    "feesEarned0": {
+      "_hex": "0x5b0434a0cc0a463979deb523",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x2cffafbea093e2",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xae666F497e3b03415503785df36f795e6D91d4b3",
+    "address": "0xae666F497e3b03415503785df36f795e6D91d4b3",
+    "name": "Gelato Uniswap GEL/WETH LP",
+    "blockCreated": 13754095,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x06c8c1b9d8500b8bea1d",
+      "_isBigNumber": true
+    },
+    "lowerTick": -90000,
+    "upperTick": -72000,
+    "manager": "0xed5cf41b0fd6a3c564c17ee34d9d26eafc30619b",
+    "managerFee": 0,
+    "positionId": "0x3a86666689435e81da53d6b43fcb5d2cbbd5db64054b1769f62ddb84fba80893",
+    "token0": {
+      "name": "Gelato Network Token",
+      "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+      "symbol": "GEL",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 0.43198161538378965,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x0346e1ff5f6354cb759c",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x2dd31cc03ed996a99fbfdffa07f8f4604b1a2ec1",
+    "tvl": 0,
+    "apr": 33.21705387472061,
+    "aprTimestamp": 1657959178,
+    "feesEarned0": {
+      "_hex": "0x1630af0288b25fb51d2dee",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x018a5ddd35592fdd31ca",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xb1Cfdc7370550f5e421E1bf0BF3CADFaDF3C4141",
+    "address": "0xb1Cfdc7370550f5e421E1bf0BF3CADFaDF3C4141",
+    "name": "Gelato Uniswap DAI/FRAX LP",
+    "blockCreated": 12881548,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x02581bc3160c09f8512e4ee9",
+      "_isBigNumber": true
+    },
+    "lowerTick": -50,
+    "upperTick": 50,
+    "manager": "0xed5cf41b0fd6a3c564c17ee34d9d26eafc30619b",
+    "managerFee": 0,
+    "positionId": "0xe5071ed5e452b8f68a896b91e9ab8df930735a11caa15c7f0f343ccf22ea7f9a",
+    "token0": {
+      "name": "Dai Stablecoin",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Frax",
+      "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+      "symbol": "FRAX",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 0.9980128306743171,
+    "totalSupply": {
+      "_hex": "0x025104a339185d6453917c43",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x97e7d56a0408570ba1a7852de36350f7713906ec",
+    "tvl": 0,
+    "apr": 1.0857578962007275,
+    "aprTimestamp": 1657337484,
+    "feesEarned0": {
+      "_hex": "0x3b171b6db17423f2f508ee",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x3e71b2027c39c17f6e400d",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xBBA11b41407dF8793A89b44ee4b50AfAD4508555",
+    "address": "0xBBA11b41407dF8793A89b44ee4b50AfAD4508555",
+    "name": "Gelato Uniswap USDC/POP LP",
+    "blockCreated": 13749349,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x05e83c853261330b",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0x6b1741143d3f2c4f1eda12e19e9518489df03e04",
+    "managerFee": 0,
+    "positionId": "0xe53d916eb68db06527288ed7973acf5e154c67b4ce71ff0add8b0d1af6b338f1",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Popcorn",
+      "address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
+      "symbol": "POP",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 0.8068728837013432,
+    "totalSupply": {
+      "_hex": "0x05d0817c92b0e582",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x9fee77d8b5050a55c16d0446e6eab06a6a24cd06",
+    "tvl": 0,
+    "apr": 2.703541970165318,
+    "aprTimestamp": 1657141062,
+    "feesEarned0": {
+      "_hex": "0x0235b9008ce5",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x019c12b2b572459724798e",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xCf84a3dC12319531E3deBD48C86E68eAeAfF224a",
+    "address": "0xCf84a3dC12319531E3deBD48C86E68eAeAfF224a",
+    "name": "Gelato Uniswap FEI/USDC LP",
+    "blockCreated": 13933532,
+    "feeTier": 100,
+    "liquidity": {
+      "_hex": "0xafcf47539f3f31ea32",
+      "_isBigNumber": true
+    },
+    "lowerTick": -276329,
+    "upperTick": -276319,
+    "manager": "0xed5cf41b0fd6a3c564c17ee34d9d26eafc30619b",
+    "managerFee": 0,
+    "positionId": "0x2624fe527d3eb9baeb8b3a58a402a463b6f30b131d5b15aa5a8fdb8b1f279aa8",
+    "token0": {
+      "name": "Fei USD",
+      "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+      "symbol": "FEI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 0.9987551764775005,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0xae3b1a132c3ca5b4ee",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xdf50fbde8180c8785842c8e316ebe06f542d3443",
+    "tvl": 0,
+    "apr": 1.661633447467377,
+    "aprTimestamp": 1658188613,
+    "feesEarned0": {
+      "_hex": "0x02c4d419b93d3d445f9c981d",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x014e688285a314",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xD2eeC91055F07fE24C9cCB25828ecfEFd4be0c41",
+    "address": "0xD2eeC91055F07fE24C9cCB25828ecfEFd4be0c41",
+    "name": "Gelato Uniswap USDC/USDT LP",
+    "blockCreated": 13673267,
+    "feeTier": 100,
+    "liquidity": {
+      "_hex": "0x01ea3574c0a4",
+      "_isBigNumber": true
+    },
+    "lowerTick": -9,
+    "upperTick": 3,
+    "manager": "0xed5cf41b0fd6a3c564c17ee34d9d26eafc30619b",
+    "managerFee": 0,
+    "positionId": "0x731164bb929d1eb00407367b485490b2fd5b429d456bb621305813e912d1da9c",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Tether USD",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 0.9983850469654906,
+    "totalSupply": {
+      "_hex": "0x97284a04",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x3416cf6c708da44db2624d63ea0aaef7113527c6",
+    "tvl": 0,
+    "apr": 1.4432373521341193,
+    "aprTimestamp": 1655784994,
+    "feesEarned0": {
+      "_hex": "0x0d1cb19a5d",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x213dd13fa0",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xD494eFe072Cb55a4D7F2CF589Bd2f718555AF9f4",
+    "address": "0xD494eFe072Cb55a4D7F2CF589Bd2f718555AF9f4",
+    "name": "Gelato Uniswap SOS/WETH LP",
+    "blockCreated": 13876450,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x026ce0064f73ad4a7283",
+      "_isBigNumber": true
+    },
+    "lowerTick": -208000,
+    "upperTick": -194000,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0x527e5b152802bb7791b258244649d6c08302dcf42999c660e3f4cb18a99d8cb8",
+    "token0": {
+      "name": "SOS",
+      "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+      "symbol": "SOS",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 3.250828887164879e-7,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x01f9c6ad431f09cbb383",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xb82d251b7e92832dccb7f3c6f03ae20f2d7ee597",
+    "tvl": 0,
+    "apr": 234.09481088627604,
+    "aprTimestamp": 1642641480,
+    "feesEarned0": {
+      "_hex": "0x053b5a400df4f6a0320eb519",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x14d95c9b1bed6fc8",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xE0ABCe449a0E368Eaf657F6F1c0eD5711174c46f",
+    "address": "0xE0ABCe449a0E368Eaf657F6F1c0eD5711174c46f",
+    "name": "Gelato Uniswap WETH/JPEG LP",
+    "blockCreated": 14565678,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x187da3d4bc04d3b680f8",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887200,
+    "upperTick": 887200,
+    "manager": "0x51c2cef9efa48e08557a361b52db34061c025a1b",
+    "managerFee": 0,
+    "positionId": "0x1b95f531328ce2f35ada32a990cebe671d75db8e7dab39e5a7e4f677b73051be",
+    "token0": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "JPEG’d Governance Token",
+      "address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
+      "symbol": "JPEG",
+      "decimals": 18
+    },
+    "tokenPrice0": 1603.4853859077248,
+    "tokenPrice1": 0.0008012684391175764,
+    "totalSupply": {
+      "_hex": "0x16ad62ba9a2415837b82",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xaf9060d26826964c1b9329582e23b4adbf7679e3",
+    "tvl": 0,
+    "apr": 24.739996170554104,
+    "aprTimestamp": 1657240497,
+    "feesEarned0": {
+      "_hex": "0x36a93ed61065a5c208",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x05a09cf4c9dd0b608fb61e3f",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xea26D116a125385aD4f1e75B70eBCD135E59301E",
+    "address": "0xea26D116a125385aD4f1e75B70eBCD135E59301E",
+    "name": "Gelato Uniswap GMI/WETH LP",
+    "blockCreated": 14450825,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x081277b3d15431552d",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0x5108ef86cf493905bcd35a3736e4b46decd7de58",
+    "managerFee": 0,
+    "positionId": "0x0b9857afa192b43f93956c410d8a9cc8b0e78f4a7b53771ec4a74596a3fcd5ee",
+    "token0": {
+      "name": "Bankless DeFi Innovation Index",
+      "address": "0x47110d43175f7f2c2425e7d15792acc5817eb44f",
+      "symbol": "GMI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x1e4ea375a450c36bd7e56a250a79dc7559414998",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x4885165eb053d7008f",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0xe635c01ba1f31639",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xEDECB43233549c51CC3268b5dE840239787AD56c",
+    "address": "0xEDECB43233549c51CC3268b5dE840239787AD56c",
+    "name": "Gelato Uniswap agEUR/USDC LP",
+    "blockCreated": 14615707,
+    "feeTier": 100,
+    "liquidity": {
+      "_hex": "0x060b1df7ed2920c428",
+      "_isBigNumber": true
+    },
+    "lowerTick": -276320,
+    "upperTick": -273470,
+    "manager": "0x0c2553e4b9dfa9f83b1a6d3eab96c4baab42d430",
+    "managerFee": 0,
+    "positionId": "0xff38e166c538c5860287df9f375663ec2790b70a3ad46c6030c5caaa2bb280ca",
+    "token0": {
+      "name": "agEUR",
+      "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+      "symbol": "agEUR",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "tokenPrice0": 1.016608670588913,
+    "tokenPrice1": 1,
+    "totalSupply": {
+      "_hex": "0x06087f38ef7a056c8b",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x735a26a57a0a0069dfabd41595a970faf5e1ee8b",
+    "tvl": 0,
+    "apr": 0.6821932982773894,
+    "aprTimestamp": 1658401845,
+    "feesEarned0": {
+      "_hex": "0xe730d7c7357b3b77be2708",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x2b0f9b4116ff",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xef4c2568Be52DDb79a4AfA7147f15EE600b7E335",
+    "address": "0xef4c2568Be52DDb79a4AfA7147f15EE600b7E335",
+    "name": "Arrakis Vault V1 FAITH/MILAREPA",
+    "blockCreated": 14886381,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x08e7054137f52e6b091213",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887200,
+    "upperTick": 887200,
+    "manager": "0xb7647f0c6439ceaf6cf2eead58410bb50dbe909f",
+    "managerFee": 0,
+    "positionId": "0x9596f9779dcbdeee00e3cd24949b5360ed99936825bc0b111da59d1e8c478ec4",
+    "token0": {
+      "name": "Prelude of the Night",
+      "address": "0x30b2de4a95f397545c6509402f235b1be0fa9a14",
+      "symbol": "FAITH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "A Yogis Joy",
+      "address": "0x5c56c86ae42ddee99c3b46cc1d78ba4761080d86",
+      "symbol": "MILAREPA",
+      "decimals": 18
+    },
+    "tokenPrice0": 0,
+    "tokenPrice1": 0,
+    "totalSupply": {
+      "_hex": "0x08cbbaddeb4b02c279c64d",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x61e9c531291cd514404577ddab529b74d04d2817",
+    "tvl": 0,
+    "apr": 49.22421150639673,
+    "aprTimestamp": 1656674316,
+    "feesEarned0": {
+      "_hex": "0x029fbf3aa8def62d6fb346fed205",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0xfebbca2afbb077a2a3",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xF331e8FF24Ff56544c11cA680f84A2DB75ACF917",
+    "address": "0xF331e8FF24Ff56544c11cA680f84A2DB75ACF917",
+    "name": "Gelato Uniswap sILV2/WETH LP",
+    "blockCreated": 14452539,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": -28800,
+    "upperTick": -25200,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0x40d825bc664d87a1937eafe3aa37dc42065c6332d3f5175c1015d330fc33b18c",
+    "token0": {
+      "name": "Escrowed Illuvium 2",
+      "address": "0x7e77dcb127f99ece88230a64db8d595f31f1b068",
+      "symbol": "sILV2",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 46.686951087368186,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xef9a9283440b2d7efb9c7dcc17e94e234d5ccccd",
+    "tvl": 0,
+    "apr": 147.2419686077133,
+    "aprTimestamp": 1654007403,
+    "feesEarned0": {
+      "_hex": "0x3c2c24bd7353afd1",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x36e999116228d6d0",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xf8B735e990B32a985801e5f56eF353dE9cF696e9",
+    "address": "0xf8B735e990B32a985801e5f56eF353dE9cF696e9",
+    "name": "Arrakis Vault V1 wstETH/WETH",
+    "blockCreated": 14991876,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x013515b51a113b13",
+      "_isBigNumber": true
+    },
+    "lowerTick": -2220,
+    "upperTick": 480,
+    "manager": "0x5108ef86cf493905bcd35a3736e4b46decd7de58",
+    "managerFee": 0,
+    "positionId": "0x2ea73c1f7e593c337d8fe2d861ed7129758286d210ccf740caea90d2d9e61c16",
+    "token0": {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "symbol": "wstETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "tokenPrice0": 1695.146080419321,
+    "tokenPrice1": 1603.4853859077248,
+    "totalSupply": {
+      "_hex": "0x013498c9ab775272",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xc12af0c4aa39d3061c56cd3cb19f5e62deeaebde",
+    "tvl": 0,
+    "apr": 4.324895511186395,
+    "aprTimestamp": 1657568516,
+    "feesEarned0": {
+      "_hex": "0x163733b2a4f16f",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x03de6ef3d8cd307c",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xF920baf4fF3e803244C680FFdd468677f50C07B7",
+    "address": "0xF920baf4fF3e803244C680FFdd468677f50C07B7",
+    "name": "Arrakis Vault V1 USDC/CAW",
+    "blockCreated": 14924367,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": 421400,
+    "upperTick": 449200,
+    "manager": "0xb7647f0c6439ceaf6cf2eead58410bb50dbe909f",
+    "managerFee": 0,
+    "positionId": "0x210d859523d53b3c190f378a495decb266da65f4ef164f75ab75c95b7f586618",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "A Hunters Dream",
+      "address": "0xf3b9569f82b18aef890de263b84189bd33ebe452",
+      "symbol": "CAW",
+      "decimals": 18
+    },
+    "tokenPrice0": 1,
+    "tokenPrice1": 7.045642234769509e-8,
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xd8628071e63c91246979e6753eeb15c0fc0187fd",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x65Fbf30f29C7626385f78Dbc41702d97b9cD486a",
+    "address": "0x65Fbf30f29C7626385f78Dbc41702d97b9cD486a",
+    "name": "Arrakis Vault V1 QI/WETH",
+    "blockCreated": 9038277,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x0f46ce9260b81ee7",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0x88215a2794ddc031439c72922ec8983bde831c78",
+    "managerFee": 0,
+    "positionId": "0x5aa97273f11124bfbbe4b6d8883978003cbd236b564fd4b2396fd1b8f685cb6d",
+    "token0": {
+      "name": "QiDao",
+      "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+      "symbol": "QI",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x0f46c26f7ca9f78d",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xdb59de3606c0419552226a6dbbeb5e6ae272cb9b",
+    "tvl": 0,
+    "apr": 0.4078478349251833,
+    "aprTimestamp": 1654869655,
+    "feesEarned0": {
+      "_hex": "0x6da04a5b90fb0c",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x012ff6abe678",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x665d8D87ac09Bdbc1222B8B9E72Ddcb82f76B54A",
+    "address": "0x665d8D87ac09Bdbc1222B8B9E72Ddcb82f76B54A",
+    "name": "Gelato Uniswap WETH/AELIN LP",
+    "blockCreated": 2286092,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x01e3f0ad88ffa65f06",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887200,
+    "upperTick": 887200,
+    "manager": "0x5b8f3fb479571eca6a06240b21926db586cdf10f",
+    "managerFee": 0,
+    "positionId": "0x0f449e7e63bf91c70742a97fbb8eceb69c9763050e9fb8f1a24c6470b76c8c36",
+    "token0": {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Aelin Token",
+      "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
+      "symbol": "AELIN",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x01d2f8ae1f46faa766",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x5e8b0fc35065a5d980c11f96cb52381de390b13f",
+    "tvl": 0,
+    "apr": 9.222644672699586,
+    "aprTimestamp": 1659307112,
+    "feesEarned0": {
+      "_hex": "0x0112820e79eafcadec",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x4efed6139e133bb0",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x70535C46ce04181adf749f34B65B6365164d6B6E",
+    "address": "0x70535C46ce04181adf749f34B65B6365164d6B6E",
+    "name": "Gelato Uniswap WETH/LYRA LP",
+    "blockCreated": 3524408,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x16c0ee1baec7f52d4644",
+      "_isBigNumber": true
+    },
+    "lowerTick": 78400,
+    "upperTick": 110600,
+    "manager": "0xb6dacae4ef97b4817d54df8e005269f509f803f9",
+    "managerFee": 0,
+    "positionId": "0xf88f9c62fd81d527389e25e216be1a2fb4be9cfdcadcbca043ad2ba4a224c925",
+    "token0": {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Lyra Token",
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "symbol": "LYRA",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x164ca859666e593e1c2a",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xf334f6104a179207ddacfb41fa3567feea8595c2",
+    "tvl": 0,
+    "apr": 24.744498472880455,
+    "aprTimestamp": 1659338333,
+    "feesEarned0": {
+      "_hex": "0x02502e8da83a7e4ac8",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x89d7d42553e98f24f0d2",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x83bEeFB4cA39af649D03969B442c0E9F4E1732D8",
+    "address": "0x83bEeFB4cA39af649D03969B442c0E9F4E1732D8",
+    "name": "Gelato Uniswap WETH/SNX LP",
+    "blockCreated": 2291147,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x0f43f7d58486140530",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0x87428db7c48aad07e2b565756b2e70064973104a",
+    "managerFee": 0,
+    "positionId": "0x42022e5e1e356dcc9a716d236ef6e10f20c81b0c9f30d66986c081a7102335be",
+    "token0": {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Synthetix Network Token",
+      "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+      "symbol": "SNX",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x0eb1265649942fe6f5",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x0392b358ce4547601befa962680bede836606ae2",
+    "tvl": 0,
+    "apr": 25.177376259334327,
+    "aprTimestamp": 1658499391,
+    "feesEarned0": {
+      "_hex": "0x839f60942d0abcd1",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x013f531211639b57967b",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x88ccDBbA89E073C5DC08B9c84dfc1fDc152c0dAc",
+    "address": "0x88ccDBbA89E073C5DC08B9c84dfc1fDc152c0dAc",
+    "name": "Gelato Uniswap sUSD/DAI LP",
+    "blockCreated": 2309289,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x0f49db10ad67feab99e100",
+      "_isBigNumber": true
+    },
+    "lowerTick": -30,
+    "upperTick": 30,
+    "manager": "0x87428db7c48aad07e2b565756b2e70064973104a",
+    "managerFee": 0,
+    "positionId": "0x4d8f354008cf79b151e1752b73c9ea521985fc578bf11e0da8e14acd1c7a918b",
+    "token0": {
+      "name": "Synth sUSD",
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "symbol": "sUSD",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Dai Stablecoin",
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x0e76aaa436b862436a3068",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xadb35413ec50e0afe41039eac8b930d313e94fa4",
+    "tvl": 0,
+    "apr": 8.753638062667699,
+    "aprTimestamp": 1659152402,
+    "feesEarned0": {
+      "_hex": "0x7c6286bc435c62f032",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x812692f0f56844a471",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x8f9Ab50FC5C0d2EAD5953A2836D22E48e5788151",
+    "address": "0x8f9Ab50FC5C0d2EAD5953A2836D22E48e5788151",
+    "name": "Gelato Uniswap USDC/DAI LP",
+    "blockCreated": 2151535,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x3682d4d203155ea5",
+      "_isBigNumber": true
+    },
+    "lowerTick": 276300,
+    "upperTick": 276380,
+    "manager": "0x4ac09fa057f99577448d51503a2ac717be668407",
+    "managerFee": 0,
+    "positionId": "0x06c9cd2d5bec51a19aca919e4330cd6cfeee327bc1bcf59297df9d08d04c1395",
+    "token0": {
+      "name": "USD Coin",
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Dai Stablecoin",
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x357b37881ae2dc7a",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x100bdc1431a9b09c61c0efc5776814285f8fb248",
+    "tvl": 0,
+    "apr": 1.2420704423184956,
+    "aprTimestamp": 1659150428,
+    "feesEarned0": {
+      "_hex": "0x0117368c",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0xef4b3ccc6b138fb5",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x94AF0AD22515E2A1C3af2390A185EC92b4EC77C5",
+    "address": "0x94AF0AD22515E2A1C3af2390A185EC92b4EC77C5",
+    "name": "Arrakis Vault V1 MNYe/USDC",
+    "blockCreated": 7040262,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x028e0c75d4af5c",
+      "_isBigNumber": true
+    },
+    "lowerTick": -230480,
+    "upperTick": -229970,
+    "manager": "0x8636600a864797aa7ac8807a065c5d8bd9ba3ccb",
+    "managerFee": 0,
+    "positionId": "0xf0e469454cf0a487c0854f0a69cd836ec284ac14d64ba422345a53d6e703b0c2",
+    "token0": {
+      "name": "Market Neutral Yield ETH Index",
+      "address": "0x0be27c140f9bdad3474beaff0a413ec7e19e9b93",
+      "symbol": "MNYe",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin",
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "totalSupply": {
+      "_hex": "0x028df92b921925",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x926c2aeed9b4c10a025c3605dbc2953834ba2a8a",
+    "tvl": 0,
+    "apr": 1.3865179231575857,
+    "aprTimestamp": 1654310826,
+    "feesEarned0": {
+      "_hex": "0x021b2a701f89da1b",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x02b35617",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xac6705BC7f6a35eb194bdB89066049D6f1B0B1b5",
+    "address": "0xac6705BC7f6a35eb194bdB89066049D6f1B0B1b5",
+    "name": "Gelato Uniswap THALES/WETH LP",
+    "blockCreated": 3130041,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x047a0baa2f31d550c7a3",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0x4ce029813fb410960a909959694b7f1a456e4656a4367abb0f65cf8b2e2bd579",
+    "token0": {
+      "name": "Optimistic Thales Token",
+      "address": "0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
+      "symbol": "THALES",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x0465ca75c18ca8bd1191",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xff7fbdf7832ae524deda39ca402e03d92adff7a5",
+    "tvl": 0,
+    "apr": 5.801653964192188,
+    "aprTimestamp": 1659335942,
+    "feesEarned0": {
+      "_hex": "0x060c912fdb5682d7ba82",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x4c67af93b1e3e1cb",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xD1DCE56F7D8300D43d8b7d3b67650ddF9b2CAF54",
+    "address": "0xD1DCE56F7D8300D43d8b7d3b67650ddF9b2CAF54",
+    "name": "Arrakis Vault V1 WETH/OP",
+    "blockCreated": 10021825,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x58d10972ebc397d496",
+      "_isBigNumber": true
+    },
+    "lowerTick": 60000,
+    "upperTick": 80000,
+    "manager": "0x88215a2794ddc031439c72922ec8983bde831c78",
+    "managerFee": 0,
+    "positionId": "0x400405641a382a5ad651d03cbf9ed4562dd23c089153f7a811f2831b5ce8afb3",
+    "token0": {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Optimism",
+      "address": "0x4200000000000000000000000000000000000042",
+      "symbol": "OP",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x51f5b01b9564cb864f",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x730691cdac3cbd4d41fc5eb9d8abbb0cea795b94",
+    "tvl": 0,
+    "apr": 89.39216012759574,
+    "aprTimestamp": 1659333982,
+    "feesEarned0": {
+      "_hex": "0x170d64a6a749e1ca",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x8b0f9e4a38829c31f3",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xeD005C9729F6450d89311e7BbdD54867db45aE05",
+    "address": "0xeD005C9729F6450d89311e7BbdD54867db45aE05",
+    "name": "Arrakis Vault V1 GYSR/WETH",
+    "blockCreated": 9220096,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x1f2973984a8700a787",
+      "_isBigNumber": true
+    },
+    "lowerTick": -108200,
+    "upperTick": -85200,
+    "manager": "0x462cc7ea60a364410fef8c621b73a1f1c78de513",
+    "managerFee": 0,
+    "positionId": "0x55d8bb53bad56c718e44c78ceca8eac79f94c7941b24a44688edea45bbd6971f",
+    "token0": {
+      "name": "Geyser",
+      "address": "0x117cfd9060525452db4a34d51c0b3b7599087f05",
+      "symbol": "GYSR",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x1f26f2cb6cdaa36225",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x88af67b59c95eda0a9544e5c33679b128517f37a",
+    "tvl": 0,
+    "apr": 0.7818363316174427,
+    "aprTimestamp": 1658315745,
+    "feesEarned0": {
+      "_hex": "0x0309d1eb907bf2fdc7",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x047848a712eda5",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x014e2197f50db9d33bF867A96Dc62aD00B7fE711",
+    "address": "0x014e2197f50db9d33bF867A96Dc62aD00B7fE711",
+    "name": "Gelato Uniswap WMATIC/iMATIC-FLI-P LP",
+    "blockCreated": 24744641,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x04a2b6c1c144a45e",
+      "_isBigNumber": true
+    },
+    "lowerTick": -46920,
+    "upperTick": -33000,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0x40e8363d03ee6fc24bf2f1eceb34760f29359f7e14d59c3ae71ede5e8c9a3734",
+    "token0": {
+      "name": "Wrapped Matic",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "symbol": "WMATIC",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Inverse MATIC Flexible Leverage Index",
+      "address": "0x340f412860da7b7823df372a2b59ff78b7ae6abc",
+      "symbol": "iMATIC-FLI-P",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x0479b03fbb4152fc",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xa6070102499f3a82e8e9e96f5fbe58863c5e7a04",
+    "tvl": 0,
+    "apr": 9.990413345052614,
+    "aprTimestamp": 1654701849,
+    "feesEarned0": {
+      "_hex": "0x0b437d0212afdd2a1d",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x2475fd3bb7608c7b",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x1644de0A8E54626b54AC77463900FcFFD8B94542",
+    "address": "0x1644de0A8E54626b54AC77463900FcFFD8B94542",
+    "name": "Arrakis Vault V1 USDC/agEUR",
+    "blockCreated": 27120771,
+    "feeTier": 100,
+    "liquidity": {
+      "_hex": "0x188a1e0c882e7557",
+      "_isBigNumber": true
+    },
+    "lowerTick": 272940,
+    "upperTick": 277320,
+    "manager": "0xda2d2f638d6fcbe306236583845e5822554c02ea",
+    "managerFee": 0,
+    "positionId": "0x557c0e1b41e65d5fbc1f4a15bc572167c2632ea94afaf5deace679cf228bb2f5",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "agEUR",
+      "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+      "symbol": "agEUR",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x188543780b4e8592",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x3fa147d6309abeb5c1316f7d8a7d8bd023e0cd80",
+    "tvl": 0,
+    "apr": 0.226294975889502,
+    "aprTimestamp": 1659297989,
+    "feesEarned0": {
+      "_hex": "0x11a0089c",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x0fd7c31c8655906e25",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x21F65eA5bf55c48A19b195d5d8CB0f708018Ab6c",
+    "address": "0x21F65eA5bf55c48A19b195d5d8CB0f708018Ab6c",
+    "name": "Gelato Uniswap WETH/DAI LP",
+    "blockCreated": 22841484,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x04dde79344bc6ce5a4",
+      "_isBigNumber": true
+    },
+    "lowerTick": 80040,
+    "upperTick": 90000,
+    "manager": "0x88215a2794ddc031439c72922ec8983bde831c78",
+    "managerFee": 0,
+    "positionId": "0x36b95c9f94c235e6620bca3b7b95d1df36c19f0fd155dba7fc8e46e1a7db0eeb",
+    "token0": {
+      "name": "Wrapped Ether",
+      "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x04c4346d588c970fb3",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x6bad0f9a89ca403bb91d253d385cec1a2b6eca97",
+    "tvl": 0,
+    "apr": 1.3630811984568636,
+    "aprTimestamp": 1658562064,
+    "feesEarned0": {
+      "_hex": "0x0249ec15d7ba16",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x1ca09347d827a61c",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x2817E729178471DBAC8b1FC190b4fd8e6F3984e3",
+    "address": "0x2817E729178471DBAC8b1FC190b4fd8e6F3984e3",
+    "name": "Arrakis Vault V1 USDC/USDT",
+    "blockCreated": 27849125,
+    "feeTier": 100,
+    "liquidity": {
+      "_hex": "0x206f0ece3723",
+      "_isBigNumber": true
+    },
+    "lowerTick": -9,
+    "upperTick": 9,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0x4094403f8a1250d55ac05b1969f7e03dd40a2c6d5c1ff563d6f35d198520d64d",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "(PoS) Tether USD",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "symbol": "USDT",
+      "decimals": 6
+    },
+    "totalSupply": {
+      "_hex": "0x3a35e10ba0d1",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xdac8a8e6dbf8c690ec6815e0ff03491b2770255d",
+    "tvl": 0,
+    "apr": 0.998910135730727,
+    "aprTimestamp": 1659325550,
+    "feesEarned0": {
+      "_hex": "0x436e7894",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x515f42b4",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x2aF769150510Ad9eb37D2e63e1E483114d995cBA",
+    "address": "0x2aF769150510Ad9eb37D2e63e1E483114d995cBA",
+    "name": "Gelato Uniswap USDC/DAI LP",
+    "blockCreated": 23304317,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x02776b4d6cbf948b07",
+      "_isBigNumber": true
+    },
+    "lowerTick": 276320,
+    "upperTick": 276330,
+    "manager": "0x02864b9a53fd250900ba74de507a56503c3dc90b",
+    "managerFee": 0,
+    "positionId": "0xe2d5955fe875a3e4b709b15e79aaf5453b5b9761c61ddc57e480723a7b5828ac",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x026403304517cc1fe8",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x5f69c2ec01c22843f8273838d570243fd1963014",
+    "tvl": 0,
+    "apr": 3.997369949931644,
+    "aprTimestamp": 1659154774,
+    "feesEarned0": {
+      "_hex": "0x7e73eb",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x7344dce19dbac390",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x2fDB380E4801Fae350F9Bd844BeC79C78dCfa43e",
+    "address": "0x2fDB380E4801Fae350F9Bd844BeC79C78dCfa43e",
+    "name": "Arrakis Vault V1 WBTC/WETH",
+    "blockCreated": 28703302,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": 254800,
+    "upperTick": 258700,
+    "manager": "0xace4db860d9db380d5aeffac51c223e024cb9bd6",
+    "managerFee": 0,
+    "positionId": "0x209ead41501f1613a901775c0ef89f350fa4f055b922d5d5a88ebe5de242c93e",
+    "token0": {
+      "name": "(PoS) Wrapped BTC",
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x50eaedb835021e4a108b7290636d62e9765cc6d7",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x3055C602454ddE1BDa3e98B1bCfD2Ed68ab9789E",
+    "address": "0x3055C602454ddE1BDa3e98B1bCfD2Ed68ab9789E",
+    "name": "Arrakis Vault V1 BREAD/DAI",
+    "blockCreated": 29198699,
+    "feeTier": 100,
+    "liquidity": {
+      "_hex": "0x072ff53ff481497a26a642",
+      "_isBigNumber": true
+    },
+    "lowerTick": -5,
+    "upperTick": 5,
+    "manager": "0x6a148b997e6651237f2fcfc9e30330a6480519f0",
+    "managerFee": 0,
+    "positionId": "0xa4f8cee2f916354341a11f5cbcfe6630af1fff3925ccc038efeea581cdc67b71",
+    "token0": {
+      "name": "Breadchain Stablecoin",
+      "address": "0x11d9efdf4ab4a3bfabf5c7089f56aa4f059aa14c",
+      "symbol": "BREAD",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x072ebbe662cadad93d4366",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x3f6e4f79f35dc8d21d492c60daf9f55aa902d618",
+    "tvl": 0,
+    "apr": 0.4168390905890821,
+    "aprTimestamp": 1659032232,
+    "feesEarned0": {
+      "_hex": "0x136ec2dbd698ad39",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x13cd2be3fbfd2121",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x38e7e05Dfd9fa3dE80dB0e7AC03AC57Fa832C78A",
+    "address": "0x38e7e05Dfd9fa3dE80dB0e7AC03AC57Fa832C78A",
+    "name": "Gelato Uniswap FRAX/SOLACE LP",
+    "blockCreated": 25674846,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x13deaf9deca66e1296",
+      "_isBigNumber": true
+    },
+    "lowerTick": 24120,
+    "upperTick": 35040,
+    "manager": "0x501ace0e8d16b92236763e2ded7ae3bc2dffa276",
+    "managerFee": 0,
+    "positionId": "0xdf499c055f9ec46306db7bb1fcf6879ece85cc54ad70e4a6ae702e84e0a62d64",
+    "token0": {
+      "name": "Frax",
+      "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+      "symbol": "FRAX",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "solace",
+      "address": "0x501ace9c35e60f03a2af4d484f49f9b1efde9f40",
+      "symbol": "SOLACE",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x13b9f24ba8b3f23d78",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x85efec4ee18a06ce1685abf93e434751c3cb9ba9",
+    "tvl": 0,
+    "apr": 2.1156367817349913,
+    "aprTimestamp": 1657048523,
+    "feesEarned0": {
+      "_hex": "0x1eabcc4dfc5c0db91c",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x051c42c57b1253041acc",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x3Cc255339a27eFa6c38bEe880F4061AB9b231732",
+    "address": "0x3Cc255339a27eFa6c38bEe880F4061AB9b231732",
+    "name": "Arrakis Vault V1 WMATIC/AAVE",
+    "blockCreated": 26392205,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x03c2acef3e7657d88bc2",
+      "_isBigNumber": true
+    },
+    "lowerTick": -55200,
+    "upperTick": -36900,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0x30808b15a0afb86642a4cdb4505bfa413f5ea6f19dd96c61b500139fc18caf8e",
+    "token0": {
+      "name": "Wrapped Matic",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "symbol": "WMATIC",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Aave (PoS)",
+      "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "symbol": "AAVE",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x036ad7a49fdc10a0bb42",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xa9077cdb3d13f45b8b9d87c43e11bce0e73d8631",
+    "tvl": 0,
+    "apr": 27.88266890361302,
+    "aprTimestamp": 1659299109,
+    "feesEarned0": {
+      "_hex": "0x05e2f45fc7c4a095abf2",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x0b529ab9443bac5048",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x4520c823E3a84ddFd3F99CDd01b2f8Bf5372A82a",
+    "address": "0x4520c823E3a84ddFd3F99CDd01b2f8Bf5372A82a",
+    "name": "Arrakis Vault V1 WMATIC/USDC",
+    "blockCreated": 26390404,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x082e0f7b0025f6ad",
+      "_isBigNumber": true
+    },
+    "lowerTick": -285500,
+    "upperTick": -263240,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0xb61f573bffafe32a38134854f4afb3b8d10ac015a58b79956438ad4776dd8d5d",
+    "token0": {
+      "name": "Wrapped Matic",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "symbol": "WMATIC",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "totalSupply": {
+      "_hex": "0x0b77b93edd5f1a15",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xa374094527e1673a86de625aa59517c5de346d32",
+    "tvl": 0,
+    "apr": 33.59706106820722,
+    "aprTimestamp": 1659296205,
+    "feesEarned0": {
+      "_hex": "0x2cf02dda2ec175814168",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x25721e87d5",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x4Fe4d754d1B2feaAd266332CfE3d3fcaa632c953",
+    "address": "0x4Fe4d754d1B2feaAd266332CfE3d3fcaa632c953",
+    "name": "Arrakis Vault V1 USDC/miMATIC",
+    "blockCreated": 26392709,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0xb394261b156d82c5",
+      "_isBigNumber": true
+    },
+    "lowerTick": 276230,
+    "upperTick": 276420,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0xa7c6feb07a0fa88fab1f00aa2b258d6849d1030de15dce03b3094397b2a4808f",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "miMATIC",
+      "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+      "symbol": "miMATIC",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0xb24b99d925bf08f5",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x7f567ce133b0b69458fc318af06eee27642865be",
+    "tvl": 0,
+    "apr": 1.9662103794948793,
+    "aprTimestamp": 1659337664,
+    "feesEarned0": {
+      "_hex": "0x042d8822c5",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x041edff794577d668298",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x590217ef04BcB96FF6Da991AB070958b8F9E77f0",
+    "address": "0x590217ef04BcB96FF6Da991AB070958b8F9E77f0",
+    "name": "Arrakis Vault V1 WBTC/WETH",
+    "blockCreated": 26391489,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x08023b1b56ef67",
+      "_isBigNumber": true
+    },
+    "lowerTick": 249580,
+    "upperTick": 263800,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0xb8f18a8e5c7c4880880c2f69f3b8641ee442c508717325f440cdb967bdb9240e",
+    "token0": {
+      "name": "(PoS) Wrapped BTC",
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x07df9ba19fd65b",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x50eaedb835021e4a108b7290636d62e9765cc6d7",
+    "tvl": 0,
+    "apr": 5.014052239931585,
+    "aprTimestamp": 1659276990,
+    "feesEarned0": {
+      "_hex": "0x05b54344",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0xe357ce68d2d0525e",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x6dE0500211bc3140409B345Fa1a5289cb77Af1e4",
+    "address": "0x6dE0500211bc3140409B345Fa1a5289cb77Af1e4",
+    "name": "Arrakis Vault V1 USDC/POP",
+    "blockCreated": 29037272,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x059eef4d09905792",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0xa49731448a1b25d92f3d80f3d3025e4f0fc8d776",
+    "managerFee": 0,
+    "positionId": "0x155a567e6dcd44443ec7750b3b93abbb16a1e2fca7a093c1d1f7ebdae84bb826",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Popcorn (PoS)",
+      "address": "0xc5b57e9a1e7914fda753a88f24e5703e617ee50c",
+      "symbol": "POP",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x171e71267d1d2e",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x8f5b8b73c5168747779e4ef38a80cc90caf358fb",
+    "tvl": 0,
+    "apr": 0.281339352451661,
+    "aprTimestamp": 1658831040,
+    "feesEarned0": {
+      "_hex": "0x043d19f9",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x0ea9f17c086fbb6782",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x869A75D6F7ae09810c9083684cf22e9A618c8B05",
+    "address": "0x869A75D6F7ae09810c9083684cf22e9A618c8B05",
+    "name": "Arrakis Vault V1 USDC/USDT",
+    "blockCreated": 26391711,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x022c15f391ea",
+      "_isBigNumber": true
+    },
+    "lowerTick": -20,
+    "upperTick": 20,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0x25d521250875960e83c381b5d6d2f42ff97bd83aabc83d7a9e2002e3769fb37e",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "(PoS) Tether USD",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "symbol": "USDT",
+      "decimals": 6
+    },
+    "totalSupply": {
+      "_hex": "0x02238819a06e",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x3f5228d0e7d75467366be7de2c31d0d098ba2c23",
+    "tvl": 0,
+    "apr": 4.45928602186938,
+    "aprTimestamp": 1659118855,
+    "feesEarned0": {
+      "_hex": "0x8fa8f70d",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0xa921cb80",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x8DE40d47a3cb47E5614BB970A1070d1B96e1197d",
+    "address": "0x8DE40d47a3cb47E5614BB970A1070d1B96e1197d",
+    "name": "Arrakis Vault V1 USDC/UBT",
+    "blockCreated": 29244915,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x016ff4af834d",
+      "_isBigNumber": true
+    },
+    "lowerTick": 39000,
+    "upperTick": 62000,
+    "manager": "0x0000000000000000000000000000000000000000",
+    "managerFee": 0,
+    "positionId": "0x7daa8b2a66d5473f854746766732a480e3bf74382ca06275141adc011c10fa3a",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Unibright (PoS)",
+      "address": "0x7fbc10850cae055b27039af31bd258430e714c62",
+      "symbol": "UBT",
+      "decimals": 8
+    },
+    "totalSupply": {
+      "_hex": "0x01678359d8f8",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x8c1ea71c28cbbd1fcd4510ad666c47bbb86b7029",
+    "tvl": 0,
+    "apr": 100154.79044650127,
+    "aprTimestamp": 1659316498,
+    "feesEarned0": {
+      "_hex": "0x1510b2ec",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x262add5773",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x964c15A8cA8f679f4261664293f422d4Ead2465B",
+    "address": "0x964c15A8cA8f679f4261664293f422d4Ead2465B",
+    "name": "Gelato Uniswap iBTC-FLI-P/WBTC LP",
+    "blockCreated": 25743382,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0x88215a2794ddc031439c72922ec8983bde831c78",
+    "managerFee": 0,
+    "positionId": "0x0f6b2534b4a620edfed10a4f9aee4947a37468ccee8adb92227b756b0472de8f",
+    "token0": {
+      "name": "Inverse BTC Flexible Leverage Index",
+      "address": "0x130ce4e4f76c2265f94a961d70618562de0bb8d2",
+      "symbol": "iBTC-FLI-P",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "(PoS) Wrapped BTC",
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x09c9b1966da9e8d031343e4062f998e8acae7a90",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0x9cC7877692DDDD51177dBEa2b73407Bd59097a99",
+    "address": "0x9cC7877692DDDD51177dBEa2b73407Bd59097a99",
+    "name": "Arrakis Vault V1 USDC/RBW",
+    "blockCreated": 30101632,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": 295800,
+    "upperTick": 301400,
+    "manager": "0x1dc977cddaf6721b3030377d141af1b348aaadc2",
+    "managerFee": 1000,
+    "positionId": "0x987d982c547b7b509d028c9a2a02269d697dc66fb9619484a94fdd3800c04b9a",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Rainbow Token",
+      "address": "0x431cd3c9ac9fc73644bf68bf5691f4b83f9e104f",
+      "symbol": "RBW",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x156917664027312906a3e977e7f316a29934a37d",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xA173340f1E942c2845bcBCe8EBD411022E18EB13",
+    "address": "0xA173340f1E942c2845bcBCe8EBD411022E18EB13",
+    "name": "Arrakis Vault V1 USDC/WETH",
+    "blockCreated": 26391060,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x654a690a54d045",
+      "_isBigNumber": true
+    },
+    "lowerTick": 189320,
+    "upperTick": 206300,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0xdfcff5d7367902e1437e87c2601a85c2a067d546fe8e4a6ab1494609137661a8",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x7e462414db9534",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x45dda9cb7c25131df268515131f647d726f50608",
+    "tvl": 0,
+    "apr": 20.17060958209196,
+    "aprTimestamp": 1659325666,
+    "feesEarned0": {
+      "_hex": "0x230903b02d",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x042df4e7d4b2b620b5",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xB709ea61e30735D7Fafe2F6FD5C3F4c4Cf9fcE4E",
+    "address": "0xB709ea61e30735D7Fafe2F6FD5C3F4c4Cf9fcE4E",
+    "name": "Gelato Uniswap USDC/iMATIC-FLI-P LP",
+    "blockCreated": 24744008,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x9f1b499a25",
+      "_isBigNumber": true
+    },
+    "lowerTick": 222480,
+    "upperTick": 236340,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0x3f6d77477f5f9ed8b78571f00a7f2af07b662f8f4ea4235cb2d37e85c8358360",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "Inverse MATIC Flexible Leverage Index",
+      "address": "0x340f412860da7b7823df372a2b59ff78b7ae6abc",
+      "symbol": "iMATIC-FLI-P",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x97a2d4852a",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x21e74ce7970afb3dfd9dbfc57e67bc833f084f9a",
+    "tvl": 0,
+    "apr": 30.86800041418217,
+    "aprTimestamp": 1648338656,
+    "feesEarned0": {
+      "_hex": "0x199c2354",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x32475e8ab5382881",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xC1DF4E2fd282e39346422e40C403139CD633Aacd",
+    "address": "0xC1DF4E2fd282e39346422e40C403139CD633Aacd",
+    "name": "Gelato Uniswap USDC/PAR LP",
+    "blockCreated": 26293356,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0xafb74c272c5980d2",
+      "_isBigNumber": true
+    },
+    "lowerTick": 275840,
+    "upperTick": 276840,
+    "manager": "0xac3203d77823496e421aa7e88cdc2f6c387d6182",
+    "managerFee": 0,
+    "positionId": "0xde983517feb64dc02985ffb7159ef7822207e47ef98756b9ceb626c8e8364ed8",
+    "token0": {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    "token1": {
+      "name": "PAR Stablecoin",
+      "address": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128",
+      "symbol": "PAR",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x7dd04f88c4c32915",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xfa22d298e3b0bc1752e5ef2849cec1149d596674",
+    "tvl": 0,
+    "apr": 1.6743110465010174,
+    "aprTimestamp": 1659256636,
+    "feesEarned0": {
+      "_hex": "0x47c6b08c",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x3d00982652e831e21b",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xD15cA75533f58Ab1ec5FCCad1475a6BDb4bE6DC3",
+    "address": "0xD15cA75533f58Ab1ec5FCCad1475a6BDb4bE6DC3",
+    "name": "Gelato Uniswap WBTC/BTC2x-FLI-P LP",
+    "blockCreated": 25743376,
+    "feeTier": 3000,
+    "liquidity": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "lowerTick": -887220,
+    "upperTick": 887220,
+    "manager": "0x88215a2794ddc031439c72922ec8983bde831c78",
+    "managerFee": 0,
+    "positionId": "0x26d4f13f8f81b58c51af16b8d16c886a98681148d99612d1ef05d245603511df",
+    "token0": {
+      "name": "(PoS) Wrapped BTC",
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    "token1": {
+      "name": "BTC 2x Flexible Leverage Index",
+      "address": "0xd6ca869a4ec9ed2c7e618062cdc45306d8dbbc14",
+      "symbol": "BTC2x-FLI-P",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x55be0959422fce190a9b108061ae0426c642d16e",
+    "tvl": 0,
+    "apr": 0,
+    "aprTimestamp": 0,
+    "feesEarned0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xDC0eCA1D69ab51C2B2171C870A1506499081dA5B",
+    "address": "0xDC0eCA1D69ab51C2B2171C870A1506499081dA5B",
+    "name": "Arrakis Vault V1 WMATIC/WETH",
+    "blockCreated": 26389510,
+    "feeTier": 500,
+    "liquidity": {
+      "_hex": "0x0239caac52b38f2b9d45",
+      "_isBigNumber": true
+    },
+    "lowerTick": -82940,
+    "upperTick": -69080,
+    "manager": "0xdeb4c33d5c3e7e32f55a9d6336fe06010e40e3ab",
+    "managerFee": 0,
+    "positionId": "0xfe53ae71c2ccfd67810afed5450b054d01f0daee8e21448809535a6841972a3b",
+    "token0": {
+      "name": "Wrapped Matic",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "symbol": "WMATIC",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Wrapped Ether",
+      "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x0219c572fec3a09ce48a",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0x86f1d8390222a3691c28938ec7404a1661e618e0",
+    "tvl": 0,
+    "apr": 16.813308647748457,
+    "aprTimestamp": 1659286676,
+    "feesEarned0": {
+      "_hex": "0x1fbfd6f77a3813c1215a",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x03026a49b9c9c2e478",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  },
+  {
+    "id": "0xe61cb0BCa82DB9E57E34C75e4470b79a8F69eDB4",
+    "address": "0xe61cb0BCa82DB9E57E34C75e4470b79a8F69eDB4",
+    "name": "Arrakis Vault V1 WMATIC/GYSR",
+    "blockCreated": 27610984,
+    "feeTier": 10000,
+    "liquidity": {
+      "_hex": "0x09a94c4f9045595e3bd4",
+      "_isBigNumber": true
+    },
+    "lowerTick": 7000,
+    "upperTick": 30000,
+    "manager": "0x3a98b757e7867c500b6ac116bedcbf7cbbd781af",
+    "managerFee": 0,
+    "positionId": "0xdf57eb96aef40e5ca3d39611bea06ce079d0375cdc06aa6ebe307f78b8ee971c",
+    "token0": {
+      "name": "Wrapped Matic",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "symbol": "WMATIC",
+      "decimals": 18
+    },
+    "token1": {
+      "name": "Geyser (PoS)",
+      "address": "0xc48f61a288a08f1b80c2edd74652e1276b6a168c",
+      "symbol": "GYSR",
+      "decimals": 18
+    },
+    "totalSupply": {
+      "_hex": "0x0953440d9aa64afa86d5",
+      "_isBigNumber": true
+    },
+    "uniswapPool": "0xdcc2f1e96ac3574f3195e584302cfd9f64fe2e66",
+    "tvl": 0,
+    "apr": 10.53203290121462,
+    "aprTimestamp": 1659323306,
+    "feesEarned0": {
+      "_hex": "0x0cae62fef6ccde2f4c",
+      "_isBigNumber": true
+    },
+    "feesEarned1": {
+      "_hex": "0x4ecec845737c62e4ae",
+      "_isBigNumber": true
+    },
+    "balance": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves0": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    },
+    "reserves1": {
+      "_hex": "0x00",
+      "_isBigNumber": true
+    }
+  }
+]
